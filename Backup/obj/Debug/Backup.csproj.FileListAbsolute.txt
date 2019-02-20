@@ -1,0 +1,6 @@
+C:\Users\Оспанов д\source\repos\Backup\Backup\bin\Debug\Backup.dll
+C:\Users\Оспанов д\source\repos\Backup\Backup\bin\Debug\Backup.pdb
+C:\Users\Оспанов д\source\repos\Backup\Backup\obj\Debug\Backup.csprojAssemblyReference.cache
+C:\Users\Оспанов д\source\repos\Backup\Backup\obj\Debug\Backup.csproj.CoreCompileInputs.cache
+C:\Users\Оспанов д\source\repos\Backup\Backup\obj\Debug\Backup.dll
+C:\Users\Оспанов д\source\repos\Backup\Backup\obj\Debug\Backup.pdb
